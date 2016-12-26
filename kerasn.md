@@ -7,7 +7,7 @@
 ## Examples
 * question-answering with memory networks
 * text generation with stacked LSTMs
-
+* [Phased LSTM][6]
 ## Quick Example
 <dot>
 digraph a {
@@ -97,3 +97,4 @@ Possible types for text data. This is `basestring()` in Python2 and `str` in Pyt
 [3]: https://docs.python.org/3/library/functions.html#isinstance
 [4]: https://docs.python.org/3/library/stdtypes.html?highlight=dictionary#dict.get
 [5]: https://docs.python.org/3/library/stdtypes.html?highlight=dictionary#dict.pop
+[6]: https://github.com/dannyneil/public_plstm
